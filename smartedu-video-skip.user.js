@@ -2,7 +2,7 @@
 // @name             智慧教育平台视频跳过
 // @name:en          Smartedu Video Skip
 // @namespace        https://github.com/mike-unk/smartedu-video-skip
-// @version          1.0.2
+// @version          1.0.3
 // @description      跳过国家中小学智慧教育平台的视频
 // @description:en   A user.js that skips basic.smartedu.cn videos
 // @author           mike-unk
